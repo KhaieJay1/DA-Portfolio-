@@ -25,7 +25,9 @@ I also have experience in **financial analysis** and **digital banking**, focusi
 - Database Management
 - Machine Learning
 
-[DATA ANALYTICS PROJECTS](https://www.notion.so/1a0ecb12178880bf9c0af21449ed9d39?pvs=21)
+# [DATA ANALYTICS PROJECTS](https://www.notion.so/1a0ecb12178880bf9c0af21449ed9d39?pvs=21)
+![adventureworks Portfolio](https://github.com/user-attachments/assets/f49bb447-c3f1-44c5-9ae2-94d441b16b83)
+
 
 ## **Skills**
 
@@ -76,6 +78,6 @@ I also have experience in **financial analysis** and **digital banking**, focusi
 
 - LinkedIn: [Kayode J. Afuvape](https://www.linkedin.com/in/kayode-j-afuvape-ccibs-1a22252b/) (CCIBS)
 - GitHub: [KhaieJay1](https://github.com/KhaieJay1)
-- Email: [Khaiejay1@gmail.com]
+- Email: Khaieejay1@gmail.com
 
 [PROJECTS](https://www.notion.so/1a0ecb12178880f4a7ffc25589177e58?pvs=21)
