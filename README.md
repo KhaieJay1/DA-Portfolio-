@@ -25,7 +25,7 @@ I also have experience in **financial analysis** and **digital banking**, focusi
 - Database Management
 - Machine Learning
 
-# [DATA ANALYTICS PROJECTS](https://www.notion.so/1a0ecb12178880bf9c0af21449ed9d39?pvs=21)
+# [SEE MY DATA ANALYTICS PROJECTS](https://www.notion.so/1a0ecb12178880bf9c0af21449ed9d39?pvs=21)
 ![adventureworks Portfolio](https://github.com/user-attachments/assets/f49bb447-c3f1-44c5-9ae2-94d441b16b83)
 
 
